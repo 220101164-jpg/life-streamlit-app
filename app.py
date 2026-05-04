@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 # LOAD DATA
-df = pd.read_csv("C:/Users/Asus/Desktop/Diploma/dataset-le.csv")
+df = pd.read_csv("dataset-le.csv")
 
 # FEATURES
 X = df[[
